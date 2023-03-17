@@ -1,4 +1,10 @@
-header{
+  *{
+  margin: 0;
+  padding: 0;
+}
+
+
+    .cabecalho {
       background-color: #49c3cc;
       color: white;
       display: flex;
@@ -9,4 +15,10 @@ header{
 
 .cabecalho-imagem {
       width: 20%;
+} 
+.cabecalho-lista-item {
+      display: inline-block;
+      margin: 0 16px;
+      font-size: 24px;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif , Times, serif;
 }
