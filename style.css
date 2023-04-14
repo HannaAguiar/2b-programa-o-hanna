@@ -28,6 +28,7 @@ body {
 .turma{
       background-image: linear-gradient(#49c3cc,#16607d);
       color: white;
+      display: flex;
 }
 .moda.png{
       width: 25%;
